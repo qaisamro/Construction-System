@@ -42,6 +42,7 @@
             <input type="date" name="expense_date" id="expense_date" class="form-control" required>
         </div>
         <button type="submit" class="btn btn-primary">Add Expense</button>
+        <button type="submit" class="btn btn-primary">Add Expense</button>
     </form>
 </div>
 
